@@ -2,7 +2,7 @@
 # Bot configuration
 # =========================
 
-BOT_TOKEN = "8847013340:AAHgJ2Mw-IaEsJFgkXNNszO7G87XiqOTSiw"
+BOT_TOKEN = "8847013340:AAFiweYBojqIV_dNfzHDg2IP23XOJ7aCCBI"
 
 # Put Telegram numeric user IDs here.
 # Example: {123456789, 987654321}
